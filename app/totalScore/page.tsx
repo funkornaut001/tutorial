@@ -1,0 +1,1 @@
+//total score from all frames
